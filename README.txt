@@ -1,5 +1,7 @@
-Project Created for CS2110- Computer Organization
+Gameboy advance game. Written in C.
 
-A Gameboy advance game written in C.
+Play as the Georgia Tech football team. Reach the opposing end zone to score a touchdown(+6 pts).
 
-Play as Georgia Tech, reach the end zone to score. Avoid UGA players.
+Avoid UGA defenders, navigate the field by using arrow keys.
+
+Good luck!
